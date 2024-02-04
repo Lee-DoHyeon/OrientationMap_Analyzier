@@ -77,4 +77,5 @@ $\lambda$ parameter for train 10 th cell & test  10 th cell: **17.23**   |   **1
 
 ### Acknowledgments
 
-We enjoyed the meal! Thanks to you, we were able to have a happy time😊
+We enjoyed the meal! Thanks to committee, we were able to have a happy time😊  
+
